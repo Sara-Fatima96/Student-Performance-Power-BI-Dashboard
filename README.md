@@ -21,7 +21,11 @@ This project focuses on Student Performance Analysis using Power BI dashboards. 
 * **Subject Analysis:** Deep-dive filters to look at specific classes, terms, or test categories.
 * **Linguistic & Semantic Mapping:** Integrated basic natural language schemas for intuitive data querying.
 🖼️ Dashboard Preview
-*
+*### Page 1: Overview Dashboard
+![Dashboard Preview](Dashboard_Page-1.png)
+
+#### Page 2: Insights Dashboard
+![Insights Dashboard](Dashboard_Page-2.png)
 🚀 Key Insights
 * **Trend Identification:** Pinpointed foundational subjects where students consistently require extra tutoring.
 * **Metric Cohesion:** Leveraged an interconnected data model (`DataModel`) to allow dynamic cross-filtering between demographics and grades.
